@@ -1,0 +1,12 @@
+{
+  "duck_status": "Exploring the Solana memecoin swamp",
+  "scanner": "live",
+  "analyzer": "live",
+  "thread_generator": "live",
+  "scheduler": "live",
+  "poster": "live",
+  "last_scan": "pending",
+  "last_token": "pending",
+  "last_score": "pending",
+  "last_verdict": "pending"
+}
