@@ -5,8 +5,8 @@
   "thread_generator": "live",
   "scheduler": "live",
   "poster": "live",
-  "last_scan": "11:55 UTC",
-  "last_token": "$LOA",
+  "last_scan": "11:00 UTC",
+  "last_token": "$FCM",
   "last_score": "58/100",
   "last_verdict": "\ud83d\udfe0 Watchlist"
 }
