@@ -5,8 +5,8 @@
   "thread_generator": "live",
   "scheduler": "live",
   "poster": "live",
-  "last_scan": "10:16 UTC",
-  "last_token": "$SPCX69",
-  "last_score": "85/100",
-  "last_verdict": "\ud83d\udfe2 Strong Signal"
+  "last_scan": "11:22 UTC",
+  "last_token": "$CS",
+  "last_score": "53/100",
+  "last_verdict": "\ud83d\udfe0 Watchlist"
 }
