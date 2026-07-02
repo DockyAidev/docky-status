@@ -5,8 +5,8 @@
   "thread_generator": "live",
   "scheduler": "live",
   "poster": "live",
-  "last_scan": "11:18 UTC",
-  "last_token": "$SPCX69",
-  "last_score": "75/100",
-  "last_verdict": "\ud83d\udfe1 Promising"
+  "last_scan": "17:16 UTC",
+  "last_token": "$PATCHFIX",
+  "last_score": "100/100",
+  "last_verdict": "auth-fix smoke test"
 }
